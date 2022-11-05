@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SUmit</h1>
-<h3 align="center">A noob from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Sumit</h1>
+<h3 align="center">Engineer by education, Coder by heart.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
