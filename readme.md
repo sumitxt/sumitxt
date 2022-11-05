@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red">Hi 👋, I'm Sumit</h1>
+<h1 align="center" style="color:#171515">Hi 👋, I'm Sumit</h1>
 <h3 align="center">Engineer by education, Coder by heart.</h3>
 
 <h3 align="left">Connect with me:</h3>
