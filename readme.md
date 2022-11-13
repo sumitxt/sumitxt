@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1 align="center" >Hi 👋, I'm Sumit</h1>
 <h3 align="center">Useless so far.</h3>
 
@@ -13,4 +13,4 @@
 </br>
 [![Sumit's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitxt&langs_count=8&theme=radical&exclude_repo=sumitxt/old-js-html-css-jquery-practices)](https://github.com/sumitxt/)
 
-</div>
+
