@@ -12,6 +12,6 @@
 
 [![Sumit's github page](https://github-readme-stats.vercel.app/api?username=sumitxt&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&card_width=500px)](https://github.com/sumitxt/sumitxt/)
 </br>
-[![Sumit's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitxt&langs_count=8&theme=radical&exclude_repo=sumitxt/old-js-html-css-jquery-practices&card_width=450px&layout=compact)](https://github.com/sumitxt/)
+[![Sumit's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitxt&langs_count=8&theme=radical&exclude_repo=sumitxt/old-js-html-css-jquery-practices&card_width=450px)](https://github.com/sumitxt/)
 
 
