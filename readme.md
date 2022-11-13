@@ -1,7 +1,7 @@
 
 <h1 align="left" >Hi 👋, I'm Sumit</h1>
 
-<h4 align="left">Still did nothing that can help the society so far.</br>But one day I will.</h4>
+<h4 align="left">So far, I have done nothing to benefit society.</br>But one day I will.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
