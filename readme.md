@@ -3,7 +3,7 @@
 
 <h4 align="left">So far, I have done nothing to benefit society.</br>But one day I will.</h4>
 
-[![Sumit's Profile View](https://komarev.com/ghpvc/?username=sumitxt&color=lightgrey&style=for-the-badge&label=SUMIT'S+PROFILE+VIEWS)](#)
+[![Sumit's Profile View](https://komarev.com/ghpvc/?username=sumitxt&color=2272FF&style=for-the-badge&label=SUMIT'S+PROFILE+VIEWS)](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
