@@ -5,6 +5,9 @@
 
 [![Sumit's Profile View](https://komarev.com/ghpvc/?username=sumitxt&color=2272FF&style=for-the-badge&label=SUMIT'S+PROFILE+VIEWS)](#)
 
+<h1 align="left" >Sumit's Portfolio Website</h1>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6679ac24-5ac7-4bb4-a8e9-f9c5b09ea15f/deploy-status)](https://sumitxt.ml)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sumit-barua-45b68b44/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-barua-45b68b44/" height="30" width="40" /></a>
