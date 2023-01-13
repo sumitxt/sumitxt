@@ -3,7 +3,7 @@
 </head>
 
 
-<h1 align="left" >Hi 👋, I'm Sumit Barua | Sumitxt</h1>
+<h1 align="left" >Hi 👋, My name is Sumit Barua</h1>
 
 <h4 align="left">So far, I have done nothing to benefit society.</br>But one day I will.</h4>
 
