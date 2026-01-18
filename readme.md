@@ -12,7 +12,7 @@
 
 <h1 align="left" >Sumit's Portfolio Website</h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6679ac24-5ac7-4bb4-a8e9-f9c5b09ea15f/deploy-status)](https://sumitxt.ml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6679ac24-5ac7-4bb4-a8e9-f9c5b09ea15f/deploy-status)](https://sumitxt.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
