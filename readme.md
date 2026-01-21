@@ -5,7 +5,6 @@
 
 <h1 align="left" >Hi 👋, My name is Sumit Barua</h1>
 
-<h4 align="left">So far, I have done nothing to benefit society.</br>But one day I will.</h4>
 
 
 [![Sumit's Profile View](https://komarev.com/ghpvc/?username=sumitxt&color=2272FF&style=for-the-badge&label=SUMIT'S+PROFILE+VIEWS)](#)
